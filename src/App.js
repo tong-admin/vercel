@@ -27,6 +27,11 @@ function App() {
         !
       </h2>
       <p>
+    와우아ㅗㄹㄴ아ㅗ리낭림ㄴ어리만어리ㅏㅁ넝ㄹ
+    ㄴㅇ라ㅣ머ㅣㅇ런
+    ㅇㄹ낭리ㅏㅓㄴㅇㄹ
+    ㄴㅇ러ㅏㅣㅓㄴ이ㅏ런ㅇ
+    ㄹ낭러ㅣㅏㄴㅇㄹ
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
           target="_blank"
